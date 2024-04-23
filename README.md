@@ -1,2 +1,74 @@
-# Beginning-Data-
-my first projects in data analysis on excel
+# Beginning Data Analysis
+
+## Table of Content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparations](data-cleaning/preparations)
+
+
+## Project Overview
+
+This data analysis project endeavors to unveil the sales performance of an e-commerce company throughout the preceding year. Through comprehensive scrutiny of the sales data, formulate data-backed recommendations, and cultivate a more profound comprehension of the company's overall performance.
+
+### Data Sources
+
+Sales Data: The primary datasets used for this analysis is the "sales_data.cv" file, containing detailed information about each sale made by the company.
+
+### Tool
+
+- Excel - Data Cleaning
+   - [Download here](https://www.microsoft.com/en-ng)
+- SQL Server - Data Analysis
+- Power Bi - Creating Reports
+
+
+  ### Data Cleaning/Preparations
+
+  in the initial data preparation phase, we performed the following tasks:
+  1. Data loading and inspection.
+  2. Handling missing values.
+  3. Data cleaning and formatting.
+ 
+### Exploratory Data Analysis
+
+EDA involved exploring the sales data to answer key questions, such as:
+
+- what is the overall sales trend?
+-  which product are top sellers?
+-  what are the peak sales?
+
+### Data Analysis
+
+Include some interesting Code/features worked with
+
+```sql
+SELECT * FROM table1
+WHERE cond = 2;
+```
+
+### Result/Findings
+
+The analysis results are summarized as follows:
+1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+2. Product Category A is the best-performing category in terms of sales and revenue.
+3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+
+### Recomendation
+
+Based on the analysis, we recommend the following actions:
+- Invest in marketing and promotions during peak sales seasons to maximize revenue.
+- Focus on expanding and promoting products in Category A.
+- Implement a customer segmentation strategy to target high-LTV customers effectively.
+
+  ### Limitation
+
+I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
+
+### References
+
+1. SQL for businesses by werty.
+2. [Stack Overflow](https://stackoverflow.com/)
+     
+
+  
