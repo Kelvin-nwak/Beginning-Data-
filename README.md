@@ -19,7 +19,6 @@ Sales Data: The primary datasets used for this analysis is the "sales_data.cv" f
 
 - Excel - Data Cleaning
    - [Download here](https://www.microsoft.com/en-ng)
-- SQL Server - Data Analysis
 - Power Bi - Creating Reports
 
 
