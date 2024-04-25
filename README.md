@@ -11,7 +11,8 @@
 
 This data analysis project endeavors to unveil the sales performance of an e-commerce company throughout the preceding year. Through comprehensive scrutiny of the sales data, formulate data-backed recommendations, and cultivate a more profound comprehension of the company's overall performance.
 
-![Screenshot 2024-04-25 131128](https://github.com/Kelvin-nwak/Beginning-Data-/assets/167860887/6ebcbadc-b58f-4301-a1c9-05ae632ad991)
+![Screenshot 2024-04-25 134028](https://github.com/Kelvin-nwak/Beginning-Data-/assets/167860887/f75b23c9-aeda-4eb6-a3f3-099007875998)
+
 
 
 ### Data Sources
@@ -36,9 +37,10 @@ Sales Data: The primary datasets used for this analysis is the "sales_data.cv" f
 
 EDA involved exploring the sales data to answer key questions, such as:
 
-- what is the overall sales trend?
--  which product are top sellers?
--  what are the peak sales?
+- what is the overall sales by store?
+-  what are the overall sales by manager?
+-  what are the overall sales by month?
+-  what are the overall sales by category?
 
 ### Data Analysis
 
@@ -52,8 +54,8 @@ WHERE cond = 2;
 ### Result/Findings
 
 The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
+1. The company's sales have been steadily increasing 📈 over the past year, with a noticeable peak during the holiday season.
+2. Memory cards are the best-performing category in terms of sales and revenue.
 3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
 
 ### Recomendation
