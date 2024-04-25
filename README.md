@@ -11,6 +11,9 @@
 
 This data analysis project endeavors to unveil the sales performance of an e-commerce company throughout the preceding year. Through comprehensive scrutiny of the sales data, formulate data-backed recommendations, and cultivate a more profound comprehension of the company's overall performance.
 
+![Screenshot 2024-04-25 131128](https://github.com/Kelvin-nwak/Beginning-Data-/assets/167860887/6ebcbadc-b58f-4301-a1c9-05ae632ad991)
+
+
 ### Data Sources
 
 Sales Data: The primary datasets used for this analysis is the "sales_data.cv" file, containing detailed information about each sale made by the company.
