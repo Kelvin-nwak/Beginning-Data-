@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-This data analysis project endeavors to unveil the sales performance of an e-commerce company throughout the preceding year. Through comprehensive scrutiny of the sales data, formulate data-backed recommendations, and cultivate a more profound comprehension of the company's overall performance.
+This project aims to conduct a comprehensive data analysis of two retail stores, Computech and Microworld. The objective is to compare their sales performance and other relevant metrics to derive insights and actionable recommendations. This analysis will help identify strengths and weaknesses, uncover trends, and support strategic decision-making for both stores.
 
 ![Screenshot 2024-04-25 134028](https://github.com/Kelvin-nwak/Beginning-Data-/assets/167860887/f75b23c9-aeda-4eb6-a3f3-099007875998)
 
