@@ -55,7 +55,6 @@ The analysis results are summarized as follows:
 1. Between the two stores computech generates more sales thand microworld
 2. Memory cards are the best-performing category in terms of sales and revenue.
 3. the month of april has the highest sales for both computech and microworld while june is the mothe with the lowest sales for the both stores
-4. the average sales of the top 10 managers is $1,091,050
 
   ### Limitation
 
