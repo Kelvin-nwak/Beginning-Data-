@@ -1,4 +1,4 @@
-# Beginning Data Analysis
+# Data Analysis on Computech and Microworld Stores
 
 ## Table of Content
 - [Project Overview](#project-overview)
