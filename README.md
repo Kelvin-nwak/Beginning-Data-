@@ -17,13 +17,12 @@ This project aims to conduct a comprehensive data analysis of two retail stores,
 
 ### Data Sources
 
-Sales Data: The primary datasets used for this analysis is the "sales_data.xlsx" file, containing detailed information about each sale made by the company.
+Sales Data: The primary datasets used for this analysis is the "SalesData.xlsx" file, containing detailed information about each sale made by the company.
 
 ### Tool
 
 - Excel - Data Cleaning
    - [Download here](https://www.microsoft.com/en-ng)
-- Power Bi - Creating Reports
 
 
   ### Data Cleaning/Preparations
@@ -44,19 +43,19 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Data Analysis
 
-Include some interesting Code/features worked with
+Include some basic Excel functions 
+- find and replace function 
+- pivot table
+- charts and graphs 
 
-```sql
-SELECT * FROM table1
-WHERE cond = 2;
-```
 
 ### Result/Findings
 
 The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing 📈 over the past year, with a noticeable peak during the holiday season.
+1. Between the two stores computech generates more sales thand microworld
 2. Memory cards are the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+3. the month of april has the highest sales for both computech and microworld while june is the mothe with the lowest sales for the both stores
+4. the average sales of the top 10 managers is $1,091,050
 
 ### Recomendation
 
