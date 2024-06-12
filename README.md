@@ -17,7 +17,7 @@ This project aims to conduct a comprehensive data analysis of two retail stores,
 
 ### Data Sources
 
-Sales Data: The primary datasets used for this analysis is the "sales_data.cv" file, containing detailed information about each sale made by the company.
+Sales Data: The primary datasets used for this analysis is the "sales_data.xlsx" file, containing detailed information about each sale made by the company.
 
 ### Tool
 
